@@ -27,3 +27,5 @@ First project to explore base concepts from applications with node.JS.
 - [x] Não deve ser possível fazer saque quando o saldo for insuficiente
 - [x] Não deve ser possível excluir uma conta não existente
 - [x] Não deve ser possível retornar o saldo de uma conta não existente
+
+Postman URL with requests to test: https://www.getpostman.com/collections/231661ebc3517d5f664e
